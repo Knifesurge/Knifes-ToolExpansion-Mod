@@ -1,0 +1,25 @@
+item.obsidian_sword.name=Obsidian Sword
+item.cooled_blaze_rod.name=Cooled Blaze Rod
+item.obsidianHelmet.name=Obsidian Helmet
+item.obsidianChestplate.name=Obsidian Chestplate
+item.obsidianLeggings.name=Obsidian Leggings
+item.obsidianBoots.name=Obsidian Boots
+item.basic_cap.name=Basic Cap
+item.basic_rod.name=Basic Rod
+item.hardened_cap.name=Hardened Cap
+item.hardened_rod.name=Hardened Rod
+item.hardened_stick.name=Hardened Stick
+item.iron_cap.name=Iron Cap
+item.iron_stick.name=Iron Stick
+item.iron_rod.name=Iron Rod
+item.gold_cap.name=Gold Cap
+item.gold_stick.name=Gold Stick
+item.gold_rod.name=Gold Rod
+item.fire_cap.name=Fire Cap
+item.fire_rod.name=Fire Rod
+
+block.nether_stone.name=Nether Stone
+block.tool_exp_cauldron.name=TE Cauldron
+block.tool_exp_anvil.name=TE Anvil
+
+itemGroup.tabToolExpansion=Tool Expansion
